@@ -229,8 +229,3 @@ During this project, I contributed to:
 - Deploy as a desktop application.
 - Add trajectory visualization and object analytics.
 
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
